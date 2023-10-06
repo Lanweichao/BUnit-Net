@@ -1,5 +1,6 @@
 # Compact Neural Network via Stacking Hybrid Units
-This is the source code for our TPAMI paper: Compact Neural Network via Stacking Hybrid Units
+This is the source code for our TPAMI paper: Compact Neural Network via Stacking Hybrid Units.
+
 It provides some examples of how to build networks with designed basic units based on Pytorch. The version that supports more models is coming soon.
 
 ## Part I: Exploration on Basic Units
