@@ -18,3 +18,16 @@ CIFAR-10/CIFAR-100:
 $ python train.py
 ```
 More details please refer to the GitHub link: https://github.com/Lanweichao/BUnit-Net
+
+## Citation
+```
+@ARTICLE{10275036,
+  author={Lan, Weichao and Cheung, Yiu-ming and Jiang, Juyong and Hu, Zhikai and Li, Mengke},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Compact Neural Network via Stacking Hybrid Units}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TPAMI.2023.3323496}}
+```
