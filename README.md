@@ -17,8 +17,7 @@ CIFAR-10/CIFAR-100:
 ```bash
 $ python train.py
 ```
-More details please refer to the GitHub link: https://github.com/Lanweichao/BUnit-Net
-
+More details will be released later.
 ## Citation
 ```
 @ARTICLE{10275036,
